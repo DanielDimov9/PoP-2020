@@ -88,6 +88,7 @@ namespace Lesson_4
             {
                 int index = IndexOf(character, secret);
                 result += alpha[index];
+
             }
             return result;
         }
